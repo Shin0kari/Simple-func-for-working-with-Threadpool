@@ -1,14 +1,14 @@
 [package]
 categories = [""]
 description = ""
-documentation = ""
+# documentation = ""
 edition = "2021"
-homepage = ""
+# homepage = ""
 keywords = [""]
 license = ""
 name = "simple_threadpool_func_bio"
-readme = ""
-repository = ""
+# readme = ""
+repository = "https://github.com/Shin0kari/Simple-func-for-working-with-Threadpool"
 version = "0.0.1"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
