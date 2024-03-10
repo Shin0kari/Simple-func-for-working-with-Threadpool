@@ -1,11 +1,11 @@
 [package]
 categories = [""]
-description = ""
+description = "My simple thread pool functions for my projects. Taken from the official rust-lang book"
 # documentation = ""
 edition = "2021"
 # homepage = ""
 keywords = [""]
-license = ""
+# license = ""
 name = "simple_threadpool_func_bio"
 # readme = ""
 repository = "https://github.com/Shin0kari/Simple-func-for-working-with-Threadpool"
